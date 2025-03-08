@@ -1,1 +1,1 @@
-# Liner-Discriminant-Analysis
+# Linear-Discriminant-Analysis
